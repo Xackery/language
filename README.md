@@ -1,5 +1,5 @@
 #Alphabet
-* Aa Dd Ee Ff Gg Kk Nn Oo Pp Ss Tt Uu Yy
+* Aa Dd Ee Ff Jj Kk Nn Oo Pp Ss Tt Uu Yy
 * Xx 1 2 3 4 5 6 7 8 9
  
 #Vowels
@@ -18,7 +18,7 @@ Y is Yuh
 * B is removed due to being too vocally similar to D.
 * H removed due to sublety to vowel words and F sounding.
 * M removed due to being too close to N
-* J is too close to G
+* G is too close to J
 * Q is too close to K
 * V is too close to D
 * W is too close U when it starts a sentence (W is used by U)
