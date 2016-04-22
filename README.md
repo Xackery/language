@@ -18,7 +18,7 @@ Y is Yuh
 * B is removed due to being too vocally similar to D.
 * H removed due to sublety to vowel words and F sounding.
 * M removed due to being too close to N
-* G is too close to J
+* J is too close to G
 * Q is too close to K
 * V is too close to D
 * W is too close U when it starts a sentence (W is used by U)
